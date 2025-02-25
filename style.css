@@ -11,3 +11,28 @@
 }
 
 
+.footer-sec{
+    ul{
+        
+        h1{
+
+        }
+
+        li{
+            padding-top: 10px;
+            font-size: medium;
+            display: none;
+        }
+    }
+}
+
+@media(min-width:1024px){
+    .footer-sec{
+        ul{
+            li{
+                display: flex;
+            }
+        }
+    }
+}
+
