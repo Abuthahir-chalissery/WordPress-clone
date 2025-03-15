@@ -11,7 +11,7 @@ Tailwind CSS made the development process faster and more efficient, offering:
 - 🛠️ Easy maintenance and readability.
 
 ## 🖼️ Visual Preview
-![image info](Images/WordPress.png)
+![image info](images/WordPress.png)
 
 ## 📝 Features
 - ⚡ Fully responsive design with smooth adaptability to various screen sizes.
